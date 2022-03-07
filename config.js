@@ -1,4 +1,4 @@
-const nameGirl = 'em';
+const nameGirl = '💘em💘';
 const giftUrl = 'https://levanhai1998.github.io/chuc/';
 const eventName = 'Chúc Mừng 8-3';
 const titleCard = 'Tặng bà chủ nhỏ';
